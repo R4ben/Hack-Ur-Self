@@ -1,0 +1,85 @@
+{
+  "general": {
+    "appTitle": "Hack Ur Self"
+  },
+  "home": {
+    "pageTitle": "Home",
+    "emptyHome": "Ainda nao adicionou Nada"
+  },
+  "lifeProjects": {
+    "pageTitle": "Life Projects",
+    "add": {
+      "buttonText": "New Project",
+      "shortBtnText": "New Project",
+      "addingProjectMgs": "Adding life project",
+      "addingProjectName": "Project Name",
+      "addingProjectDesc": "Add a description",
+      "failureMsg":"Falha ao adicionar projeto"
+    },
+    "sortby": {
+      "lastUpdate": "recently Updated",
+      "name": "Alfabetically"
+    },
+    "save":{
+      "successMsg":"Projeto salvo com sucesso.",
+      "buttonText":"Salvar",
+      "failureMsg":"Falha ao salvar Projeto."
+    },
+    "delete":{
+      "buttonText":"Save",
+      "successMsg":"Project Saved Successfully",
+      "failureMsg":"Failed to save project"
+    },
+    "detailsForm":{
+      "nameLabel":"Name",
+      "nameHint":"Name of project",
+      "emptyNameMsg":"Name Is Required",
+      "descriptionLabel":"Descricao",
+      "descriptionHint":"Escreva uma descricao"
+    }
+  },
+  "anualProjects": {
+    "pageTitle": "Annual Projects"
+  },
+  "quarterlyProjects": {
+    "pageTitle": "Quarterly Projects"
+  },
+  "monthlyProjects": {
+    "pageTitle": "Monthly Projects"
+  },
+  "weeklyProjects": {
+    "pageTitle": "Weekly Projects"
+  },
+  "dailyPlans": {
+    "pageTitle": "Daily Plans"
+  },
+  "about": {
+    "pageTitle": "About"
+  },
+  "settings": {
+    "pageTitle": "Settings",
+    "general": {
+      "sectionTitle": "General",
+      "themeMode": "Theme Mode",
+      "themeModes": {
+        "system": "Follow System Theme",
+        "light": "Light Mode",
+        "dark": "Dark Mode",
+        "black": "Black Mode"
+      },
+      "locale": "Linguage",
+      "region": "Region",
+      "regions": {
+        "pt": "Portugual",
+        "other": "Outro"
+      }
+    }
+  },
+  "failure": {
+    "unexpected": "Unexpected Error",
+    "lifeProjects": {
+      "unexpected": "Unexpected Error",
+      "notFound": "Life Project not Found"
+    }
+  }
+}

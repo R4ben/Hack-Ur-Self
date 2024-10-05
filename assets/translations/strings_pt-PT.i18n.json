@@ -1,0 +1,85 @@
+{
+  "general": {
+    "appTitle": "Hack Ur Self"
+  },
+  "home": {
+    "pageTitle": "Home",
+    "emptyHome": "Ainda nao adicionou Nada"
+  },
+  "lifeProjects": {
+    "pageTitle": "Projetos de Vida",
+    "add": {
+      "buttonText": "Novo Projeto",
+      "shortBtnText": "Novo Projeto",
+      "addingProjectMgs": "Adicionando projeto de vida",
+      "addingProjectName": "Nome projeto",
+      "addingProjectDesc": "Adicione uma descricao",
+      "failureMsg":"Falha ao adicionar projeto"
+    },
+    "sortby": {
+      "lastUpdate": "Atualizado recentemente",
+      "name": "Alfabeticamente"
+    },
+    "save":{
+      "successMsg":"Projeto salvo com sucesso.",
+      "buttonText":"Salvar",
+      "failureMsg":"Falha ao salvar Projeto."
+    },
+    "delete":{
+      "buttonText":"Deletar",
+      "successMsg":"Projeto deletado com sucesso",
+      "failureMsg":"Falha ao deletar projeto"
+    },
+    "detailsForm":{
+      "nameLabel":"Nome",
+      "nameHint":"Nome do projeto",
+      "descriptionLabel":"Descricao",
+      "descriptionHint":"Escreva uma descricao",
+      "emptyNameMsg":"Nome é obrigatório"
+    }
+  },
+  "anualProjects": {
+    "pageTitle": "Projetos Anuais"
+  },
+  "quarterlyProjects": {
+    "pageTitle": "Projetos Trimestrais"
+  },
+  "monthlyProjects": {
+    "pageTitle": "Projetos Mesais"
+  },
+  "weeklyProjects": {
+    "pageTitle": "Projetos semanais"
+  },
+  "dailyPlans": {
+    "pageTitle": "Tarefas dirios"
+  },
+  "about": {
+    "pageTitle": "Sobre"
+  },
+  "settings": {
+    "pageTitle": "Configuracoes",
+    "general": {
+      "sectionTitle": "Geral",
+      "themeMode": "Modo de Tema",
+      "themeModes": {
+        "system": "Seguir o Theme do Sistema",
+        "light": "Modo Claro",
+        "dark": "Modo Escuro",
+        "black": "Modo Preto"
+      },
+      "locale": "Linguagem",
+      "region": "Regiao",
+      "regions": {
+        "pt": "Portugual",
+        "other": "Outro"
+      }
+    }
+  },
+  "failure": {
+    "unexpected": "Erro Inesperado",
+    "lifeProjects": {
+      "unexpected": "Erro Inesperado",
+      "notFound": "Projeto de Vida Nao Encontrado"
+    }
+  }
+}

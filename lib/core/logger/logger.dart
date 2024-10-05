@@ -19,5 +19,6 @@ class Logger {
 
   static bool logPlatformDispatcherError(Object error, StackTrace stackTrace) {
     app.error('PlaformDispacherError: $error', error, stackTrace);
+    return true;
   }
 }
