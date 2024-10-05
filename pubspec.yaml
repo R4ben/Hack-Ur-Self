@@ -39,6 +39,9 @@ dependencies:
   riverpod_annotation: ^2.3.5
   path_provider: ^2.1.4
   hooks_riverpod: ^2.5.1
+  loggy: ^2.0.3
+  shared_preferences: ^2.3.1
+  path: ^1.9.0
 
 dev_dependencies:
   flutter_test:
